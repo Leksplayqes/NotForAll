@@ -11,4 +11,4 @@ for i in range(len(first_list)):
     if first_list[i] % 3 == 0 and first_list[i] % 5 != 0:
         print('Значение делящеся на 3 и не делящееся на 5: ', first_list[i])
 
-print('Максимальное значение = ', max_list, '\nМинимальное значение = ', min_list)
+print('Максимальное значене = ', max_list, '\nМинимальное значение = ', min_list)
